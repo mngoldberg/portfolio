@@ -17,20 +17,10 @@ html {
     scroll-padding-top: 5rem; /* Adjust this value based on the height of your nav bar */
 }
 
-@font-face {
-    font-family: "Steph";
-    src: url("fonts/steph-font.ttf");
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: "Steph";
-    src: url("fonts/steph-font-bold.ttf");
-    font-weight: bold;
 }
 
 body {
-    font-family: 'Steph', sans-serif;
+    font-family: sans-serif;
 }
 
 a {
